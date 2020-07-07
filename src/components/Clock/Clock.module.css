@@ -1,0 +1,10 @@
+.Clock {
+    height: auto;
+    border: 1px solid;
+    background-color: #604F93;
+}
+
+.Clock h1 {
+    font-size: 5rem;
+    color: white;
+}
